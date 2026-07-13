@@ -8,5 +8,5 @@ Machine Learning-focused Computer Science student with experience in building pr
 
 ## Contact
 - Email: aniteshhalder12345@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/anitesh-halder-276526260  
+- LinkedIn: https://www.linkedin.com/in/anitesh-halder  
 - GitHub: https://github.com/aniteshhalderofficial-commits
